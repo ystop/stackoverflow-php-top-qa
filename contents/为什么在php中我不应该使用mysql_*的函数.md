@@ -29,6 +29,7 @@ MySQL扩展:
 	* MySQL5.1中的所有功能点
 * 由于它是被废弃的,使用它使你的代码未来的支持度更差。
 * 缺少预处理语句的支持是特别重要的，因为预处理语句提供了一个更加清晰地，更少错误倾向地去转义和引用外部的数据，而不是通过调用一个单独的函数手动转义。
+* 看看这篇 [the comparison of SQL extensions](http://php.net/manual/en/mysqlinfo.api.choosing.php).
 
 ### stackoverflow链接: 
 * https://stackoverflow.com/questions/12859942/why-shouldnt-i-use-mysql-functions-in-php
