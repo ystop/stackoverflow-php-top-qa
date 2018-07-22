@@ -15,7 +15,7 @@
 #### [unset()](https://secure.php.net/manual/en/function.unset.php) 方法
 注意当你使用[unset()](https://secure.php.net/manual/en/function.unset.php)的时候，数组的key不会改变/重新索引。
 如果你想要重新索引keys,你可以使用[array_values()](http://php.net/manual/en/function.array-values.php)在unset()之后,
-array_values()可以把所有key转成从0开始的数字枚举。
+array_values()可以把所有key转成从0开始的数字枚举.
 
 Code
 
