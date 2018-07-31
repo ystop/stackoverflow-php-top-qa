@@ -8,7 +8,7 @@
 这个甚至可以保护我的页面不被非法用户访问。
 	
 ## answers
-下面已经存在的问题的总结,还有我自己的一点观点。
+下面是已经存在的问题的总结,还有我自己的一点观点。
 
 ### 1.基本回答
 
@@ -17,7 +17,7 @@
 	header('Location: '.$newURL);
 	
 ### 2.重要的细节
-####die()或者exit()
+#### die()或者exit()
 
 	header("Location: http://example.com/myOtherPage.php");
 	die();
